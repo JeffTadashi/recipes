@@ -4,7 +4,7 @@
 - 1 package soft tofu, cubed
 - 100g (or more) ground pork
 - 6 cloves garlic, finely chopped
-- 1/2 tbsp dry chili powder (flaked korean style is fine) 
+- 1 tsp dry chili powder (flaked korean style is fine) 
 - 1/2 tsp Sichuan peppercorn, crushed
 - 200ml broth (chicken is fine)
 - 1-2 chopped green onion (for garnish)
