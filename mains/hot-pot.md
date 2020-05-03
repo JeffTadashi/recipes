@@ -7,7 +7,7 @@ Based on Mikey Chen's quick hot pot recipe!
 - 6 cloves of garlic, whole
 - 1 green onion, cut into 1 inch pieces
 - 8 cups chicken stock
-- 10 dried chilies
+- 10 dried chilies (chinese)
 - 10 dried dates
 ### Broth - Bouquet Garni
 - 4 star anise
@@ -15,6 +15,11 @@ Based on Mikey Chen's quick hot pot recipe!
 - 6 bay leaves
 - 1 tbsp sichuan peppercorns, whole
 - 1 tbsp goji berries
+### Broth - For Spicy
+- Sichuan Chili Bean Paste
+- Chinese dried chilis
+- Green onion, garlic, ginger as needed
+- Beef fat
 ### Sauce
 - 1.5 tbsp Chinese bbq sauce
 - 1 tbsp sesame paste
@@ -34,5 +39,4 @@ In the hot pot, heat up some oil and briefly cook garlic and ginger until fragra
 
 Boil for 5 minutes, then it's ready! The bouquet garni can be removed after about 30, to prevent those spices from getting too strong.
 
-
-
+(For spicy broth, boil the chilis until soft, then mash. Then combine all ingredients in the fat, and fry briefly over low heat, or until oil is red)
