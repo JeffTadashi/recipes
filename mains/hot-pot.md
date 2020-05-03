@@ -5,7 +5,7 @@ Based on Mikey Chen's quick hot pot recipe!
 ### Broth
 - 6 slices of ginger
 - 6 cloves of garlic, whole
-- 2 green onions, cut into 1 inch pieces
+- 1 green onion, cut into 1 inch pieces
 - 8 cups chicken stock
 - 10 dried chilies
 - 10 dried dates
