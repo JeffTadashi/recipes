@@ -1,5 +1,5 @@
 # Oatmeal (Steel-cut)
-This recipe uses the instant-pot, pressure cooker.
+This recipe uses the instant-pot, pressure cooker. This is based off this recipe: https://detoxinista.com/instant-pot-steel-cut-oats/
 
 ## Ingredients
 - 2 1/2 cups water
