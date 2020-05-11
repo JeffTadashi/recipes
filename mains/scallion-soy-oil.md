@@ -1,5 +1,5 @@
 # Scallion Soy Oil
-Mix this with noodles, for a quick meal
+Mix this with noodles, for a quick meal. This is based off this recipe: https://www.youtube.com/watch?v=N5me5Cgt3-M
 
 ## Ingredients
 - 1/2 cup grapeseed oil
