@@ -11,7 +11,7 @@ This dish is dairy-free!
 - 1/4 c Bailey's almande almondmilk liqueur (optional)
 
 ## Directions
-In a large bowl, mix all the ingredients thoroughly (use a whisk for the peanut butter, if needed).
+In a large bowl, mix all the ingredients thoroughly. (It may be easiest to add almond milk slowly, in stages, while whisking.
 
 Combine  the mix in an ice cream maker, according to the manufacturer's directions. 
 
