@@ -13,7 +13,7 @@ Based on Wendy's chili copy recipe (https://topsecretrecipes.com/wendys-chili-co
 - 2 tbsp korean chili powder/flake
 - 2 tsp salt
 - 1 tsp black pepper
-- 1 tsp ground chumin
+- 1 tsp ground cumin
 - 2 cups water
 
 
