@@ -10,7 +10,7 @@ Also partially based on Golden Curry blocks.
 - carrot(s)
 - soy sauce
 - ketchup (a little), or apple (tbd)
-- 4 cups water or stock
+- 4 cups water or stock (half stock boullion works good)
 - 3/4 lb thinly sliced pork
 ### Roux
 - 6 tbsp flour
