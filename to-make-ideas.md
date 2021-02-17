@@ -3,3 +3,6 @@
 Chicken cream stew - https://www.justonecookbook.com/instant-pot-cream-stew/
 - omit butter and milk for oil and almond milk
 
+Pork Bulgogi - https://www.koreanbapsang.com/dweji-bulgogi-korean-spicy-pork-bbq/
+
+Miso Butter Tuna Pasta - https://www.justonecookbook.com/miso-butter-pasta-with-tuna-cabbage/
