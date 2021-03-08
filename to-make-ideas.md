@@ -6,3 +6,5 @@ Chicken cream stew - https://www.justonecookbook.com/instant-pot-cream-stew/
 Pork Bulgogi - https://www.koreanbapsang.com/dweji-bulgogi-korean-spicy-pork-bbq/
 
 Miso Butter Tuna Pasta - https://www.justonecookbook.com/miso-butter-pasta-with-tuna-cabbage/
+
+Stuffed Cabbage Rolls - https://www.justonecookbook.com/stuffed-cabbage-rolls/
