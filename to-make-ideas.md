@@ -10,3 +10,7 @@ Miso Butter Tuna Pasta - https://www.justonecookbook.com/miso-butter-pasta-with-
 Stuffed Cabbage Rolls - https://www.justonecookbook.com/stuffed-cabbage-rolls/
 
 Millet Soup
+
+Chilean Sea Bass, Miso - https://www.allrecipes.com/recipe/190094/miso-and-soy-chilean-sea-bass/
+
+
