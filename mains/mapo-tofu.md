@@ -2,7 +2,7 @@
 
 ## Ingredients
 - 1 package soft tofu, cubed
-- 100g (or more) ground pork
+- 100g (or more) ground pork (optional, or replace with plant protein)
 - 6 cloves garlic, finely chopped
 - 1 tsp dry chili powder (flaked korean style is fine) 
 - 1/2 tsp Sichuan peppercorn, crushed
