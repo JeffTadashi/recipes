@@ -8,10 +8,11 @@ Recipe (rub) is approximately per 1 slab of baby back ribs. Recipe is based on B
 - 1 tbsp garlic powder
 - 1/2 tbsp oregano (mexican)
 - 1/2 tbsp cayenne
-- 1 tbsp brown sugar
+- 3 tbsp brown sugar
 - 1 tbsp onion powder
 - 1 tbsp dry mustard
-- 2 tbsp cumin
+- 1/2 tbsp black pepper
+- 1/2 tbsp cumin
 - 2 tbsp salt
 
 ### Baste (to be determined if more needed, per rib)
