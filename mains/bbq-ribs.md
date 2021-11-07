@@ -7,7 +7,7 @@ Recipe (rub) is approximately per 1 slab of baby back ribs. Recipe is based on B
 - 4 tbsp paprika (mix smoked, hot, mild, etc)
 - 1 tbsp garlic powder
 - 1/2 tbsp oregano (mexican)
-- 1/2 tbsp cayenne
+- 1 tsp cayenne
 - 3 tbsp brown sugar
 - 1 tbsp onion powder
 - 1 tbsp dry mustard
