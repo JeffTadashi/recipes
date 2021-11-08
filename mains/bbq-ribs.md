@@ -11,7 +11,7 @@ Recipe (rub) is approximately per 1 slab of baby back ribs. Recipe is based on B
 - 3 tbsp brown sugar
 - 1 tbsp onion powder
 - 1 tbsp dry mustard
-- 1 tbsp ancho chili powder
+- 1 tbsp ancho chili powder (maybe not, TBD)
 - 1/2 tbsp black pepper
 - 1/2 tbsp cumin
 - 2 tbsp salt
