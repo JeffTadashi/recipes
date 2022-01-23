@@ -10,6 +10,7 @@ Any initial description, notes here!
 - 1 tbsp soy sauce
 - 1 tbsp taiwanese satay sauce
 - 3 cloves garlic, minced
+- 1 slice apple/pear, grated
 - 1 tbsp brown sugar
 
 
