@@ -1,29 +1,25 @@
 # BBQ Smoked Ribs
-Recipe (rub) is approximately per 1 slab of baby back ribs. Recipe is based on BGE one at: https://biggreenegg.com/recipes/perfect-ribs/
 
 ## Ingredients
 - 1 slab baby back ribs, cleaned (remove membrane on back, if needed)
-### Rub
-- 4 tbsp paprika (mix smoked, hot, mild, etc)
-- 1 tbsp garlic powder
-- 1/2 tbsp oregano (mexican)
-- 1 tsp cayenne
-- 3 tbsp brown sugar
-- 1 tbsp onion powder
-- 1 tbsp dry mustard
-- 1 tbsp ancho chili powder (maybe not, TBD)
-- 1/2 tbsp black pepper
-- 1/2 tbsp cumin
-- 2 tbsp salt
 
-### Baste (to be determined if more needed, per rib)
-- 2 tbsp apple cider
-- 1 tbsp apricot preserves 
+### Rub
+- See bbq-rub.md
+- 1/4 c brown sugar
+
+### Baste
+- 4 tbsp apple cider
+- 2 tbsp apricot preserves 
+- 2 tbsp ketchup (testing!)
 
 ## Directions
 
-Rub on ribs. Smoke for 2 hours total at 275-300F (flip/rotate as needed). Baste, then cover with foil (no holes!), cook for 30 minutes more. 
+Put rub on ribs (not too much). Put brown sugar on ribs. 
 
-Final cook for 15 minutes on grates, to tighten up glaze.
+Set smoke up with applewood and water pan. Smoke at 250F for 2-3 hours, rotating and flipping half way through.
 
-Rest for 5-10 minutes before serving
+Baste on top-side only. Wrap tightly with foil (no holes!), and cook for 1-2 hours (bone side down). Monitor temperature, aiming for 180-190 or until fully tender (bone can be twisted)
+
+Remove from foil, and cook on grates for 30-60 minutes until glaze tightens up.
+
+
