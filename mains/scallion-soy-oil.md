@@ -14,3 +14,12 @@ Cook the oil and green onions over low/medium heat for 15-20 minutes, or until t
 Add sugar and soy sauce, bring to boil just to dissolve sugar.
 
 Store in a mason jar with the green onion pieces.
+
+## New idea (PENDING TASTING)
+
+2022-08-28
+
+- 1 inch green onions
+- Save greens (1/3 of top), to blend fresh
+- used 5 big/normal green onions
+- All was blended
